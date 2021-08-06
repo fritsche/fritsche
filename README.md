@@ -1,8 +1,20 @@
-### Hi there I'm Gian Fritsche Ph.D. 👋 
+### Hi there, I'm Gian Fritsche, Ph.D. 👋 
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche)
 
+#### About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=fritsche&show_icons=true&hide_rank=true&hide_border=false&&count_private=true&include_all_commits=true&custom_title=Github%20Stats" /> 
+I'm a brazilian data scientist, software developer, educator, eternal apprentice, and husband of [@ggarciabas](https://github.com/ggarciabas). Also, I'm Ph.D. in computer science (UFPR), and I'm currently with Bradesco bank as a data scientist. My areas of interest include software engineering, web development, data science, machine learning, and evolutionary computation.
+
+Check my published work at:
+
+[<img src="https://dblp.org/img/logo.320x120.png" height='100px'/>](https://dblp.org/pid/164/9024.html)
+
+--- 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=fritsche&show_icons=true&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats" />
 
 #### Languages and Tools
 
@@ -27,10 +39,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
