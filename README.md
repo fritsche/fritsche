@@ -17,7 +17,7 @@ Check my published work at:
 />
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fritsche&skills=C,CSS,HTML,Java,JavaScript,Python,R,Shell&show-other-skills=false"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fritsche&skills=C,CSS,HTML,Java,JavaScript,Python,R,Shell"
 />
 
 #### Github Summary
