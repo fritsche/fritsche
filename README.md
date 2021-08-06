@@ -16,6 +16,12 @@ Check my published work at:
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fritsche&show-avatar=false"
 />
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fritsche&skills=C,CSS,HTML,Java,JavaScript,Python,R,Shell&show-other-skills=false"
+/>
+
+#### Github Summary
+
 <img src="https://github-readme-stats.vercel.app/api?username=fritsche&show_icons=true&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats" />
 
 #### Languages and Tools
