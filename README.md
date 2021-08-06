@@ -10,9 +10,11 @@ Check my published work at:
 
 [<img src="https://dblp.org/img/logo.320x120.png" height='100px'/>](https://dblp.org/pid/164/9024.html)
 
---- 
+#### CodersRank Summary
 
-
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fritsche&show-avatar=false"
+/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fritsche&show_icons=true&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats" />
 
