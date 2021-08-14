@@ -1,9 +1,8 @@
 ### Hi there, I'm Gian Fritsche, Ph.D. 👋 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche) 
-&nbsp;
-[fritsche.github.io](http://fritsche.github.io/)
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche)
+[![](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/fritsche/)
+[![](https://img.shields.io/badge/fritsche.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://fritsche.github.io/) 
 
 #### About Me
 
@@ -43,19 +42,5 @@ Check my published work at:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" height='30px'/>
+![Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-<!--
-**fritsche/fritsche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
