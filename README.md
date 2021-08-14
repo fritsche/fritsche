@@ -1,6 +1,9 @@
 ### Hi there, I'm Gian Fritsche, Ph.D. 👋 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche) 
+&nbsp;
+[fritsche.github.io](http://fritsche.github.io/)
+
 
 #### About Me
 
