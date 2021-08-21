@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/fritsche/)
 [![](https://img.shields.io/badge/fritsche.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://fritsche.github.io/) 
 
+[![](https://www.codewars.com/users/fritsche/badges/large)](https://www.codewars.com/users/fritsche)
+
 #### About Me
 
 I'm a brazilian data scientist, software developer, educator, eternal apprentice, and husband of [@ggarciabas](https://github.com/ggarciabas). Also, I'm Ph.D. in computer science (UFPR), and I'm currently with Bradesco bank as a data scientist. My areas of interest include software engineering, web development, data science, machine learning, and evolutionary computation.
