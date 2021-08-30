@@ -1,8 +1,10 @@
 ### Hi there, I'm Gian Fritsche, Ph.D. 👋 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche)
-[![](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/fritsche/)
 [![](https://img.shields.io/badge/fritsche.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://fritsche.github.io/) 
+<!-- 
+[![](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/fritsche/) 
+-->
 
 [![](https://www.codewars.com/users/fritsche/badges/large)](https://www.codewars.com/users/fritsche)
 
@@ -14,6 +16,7 @@ Check my published work at:
 
 [<img src="https://dblp.org/img/logo.320x120.png" height='100px'/>](https://dblp.org/pid/164/9024.html)
 
+<!--
 #### CodersRank Summary
 
 <img
@@ -23,6 +26,8 @@ Check my published work at:
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fritsche&skills=C,CSS,HTML,Java,JavaScript,Python,R,Shell"
 />
+
+-->
 
 #### Github Summary
 
