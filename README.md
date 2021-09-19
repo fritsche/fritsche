@@ -1,8 +1,8 @@
 ### Hi there, I'm Gian Fritsche
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianfritsche)
-<!--
 [![](https://img.shields.io/badge/fritsche.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://fritsche.github.io/) 
+<!--
 [![](https://www.codewars.com/users/fritsche/badges/large)](https://www.codewars.com/users/fritsche)
 -->
 
@@ -34,4 +34,6 @@ Check my published work at:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
