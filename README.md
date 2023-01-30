@@ -10,7 +10,7 @@
 
 #### About Me
 
-I'm a brazilian educator, software engineer, data scientist, father and husband. Also, I'm Ph.D. in computer science (UFPR), and I'm currently with [Trybe](https://www.betrybe.com/) as specialist instructor. My areas of interest include software engineering, web development, data science, machine learning, and evolutionary computation.
+I'm a Brazilian educator, software engineer, data scientist, father, and husband. Also, I'm Ph.D. in computer science (UFPR). Currently, I'm with [Trybe](https://www.betrybe.com/) as a curriculum analyst, for our web development course components. My areas of interest include software engineering, web development, data science, machine learning, and evolutionary computation.
 
 Check my published work at:
 
